@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sogasawara/MobileSample/_apis/build/status/satoshi-ogasawara-da.ios-quickstart-aad?branchName=master)](https://dev.azure.com/sogasawara/MobileSample/_build/latest?definitionId=1&branchName=master)
 ---
 page_type: sample
 languages:
