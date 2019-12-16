@@ -14,7 +14,7 @@ steps:
   displayName: 'pod intall using the CocoaPods task with defaults'
 - task: Xcode@5
   inputs:
-    actions: 'build'
+    actions: 'test'
     scheme: 'MSALiOS'
     sdk: 'iphoneos'
     configuration: 'Release'
