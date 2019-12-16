@@ -21,10 +21,10 @@ steps:
 #    xcWorkspacePath: '**/*.xcodeproj/project.xcworkspace'
     xcWorkspacePath: '**/*.xcworkspace'
     xcodeVersion: 'default'
-    destinationPlatformOption: iOS
+    # destinationPlatformOption: iOS
     destinationTypeOption: simulators
     destinationSimulators: 'iPhone 11'
-    destinationPlatform: Default
+    # destinationPlatform: Default
     # destinationDevices: 
 
 - task: Xcode@5
